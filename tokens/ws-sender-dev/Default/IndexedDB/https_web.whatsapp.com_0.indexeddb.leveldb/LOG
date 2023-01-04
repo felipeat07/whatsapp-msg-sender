@@ -1,0 +1,38 @@
+2023/01/04-16:54:51.120 220 Reusing MANIFEST C:\Projetos\ws-sender-dev\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/04-16:54:51.120 220 Recovering log #1102
+2023/01/04-16:54:51.200 220 Reusing old log C:\Projetos\ws-sender-dev\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001102.log 
+2023/01/04-16:55:03.782 5e8 Level-0 table #1119: started
+2023/01/04-16:55:03.853 5e8 Level-0 table #1119: 1290437 bytes OK
+2023/01/04-16:55:03.855 5e8 Delete type=0 #1102
+2023/01/04-16:55:03.860 5e8 Compacting 1@0 + 1@1 files
+2023/01/04-16:55:03.929 5e8 Generated table #1120@0: 17636 keys, 588324 bytes
+2023/01/04-16:55:03.937 5e8 Generated table #1121@0: 4185 keys, 90743 bytes
+2023/01/04-16:55:03.938 5e8 Compacted 1@0 + 1@1 files => 679067 bytes
+2023/01/04-16:55:03.938 5e8 compacted to: files[ 0 3 17 0 0 0 0 ]
+2023/01/04-16:55:03.939 5e8 Delete type=2 #1105
+2023/01/04-16:55:03.939 5e8 Delete type=2 #1119
+2023/01/04-16:55:04.704 1424 Compacting 1@1 + 10@2 files
+2023/01/04-16:55:04.840 1424 Generated table #1122@1: 40523 keys, 2256556 bytes
+2023/01/04-16:55:04.933 1424 Generated table #1123@1: 10385 keys, 2166297 bytes
+2023/01/04-16:55:05.021 1424 Generated table #1124@1: 3908 keys, 2157343 bytes
+2023/01/04-16:55:05.117 1424 Generated table #1125@1: 3382 keys, 2157463 bytes
+2023/01/04-16:55:05.217 1424 Generated table #1126@1: 3723 keys, 2161086 bytes
+2023/01/04-16:55:05.318 1424 Generated table #1127@1: 20576 keys, 2188169 bytes
+2023/01/04-16:55:05.514 1424 Generated table #1128@1: 28747 keys, 2258370 bytes
+2023/01/04-16:55:05.641 1424 Generated table #1129@1: 24984 keys, 2219164 bytes
+2023/01/04-16:55:05.721 1424 Generated table #1130@1: 17701 keys, 2142881 bytes
+2023/01/04-16:55:05.891 1424 Generated table #1131@1: 108582 keys, 2261221 bytes
+2023/01/04-16:55:05.911 1424 Generated table #1132@1: 14069 keys, 303727 bytes
+2023/01/04-16:55:05.911 1424 Compacted 1@1 + 10@2 files => 22272277 bytes
+2023/01/04-16:55:05.918 1424 compacted to: files[ 0 2 18 0 0 0 0 ]
+2023/01/04-16:55:05.918 1424 Delete type=2 #1106
+2023/01/04-16:55:05.918 1424 Delete type=2 #1107
+2023/01/04-16:55:05.918 1424 Delete type=2 #1108
+2023/01/04-16:55:05.918 1424 Delete type=2 #1109
+2023/01/04-16:55:05.918 1424 Delete type=2 #1110
+2023/01/04-16:55:05.918 1424 Delete type=2 #1111
+2023/01/04-16:55:05.919 1424 Delete type=2 #1112
+2023/01/04-16:55:05.919 1424 Delete type=2 #1113
+2023/01/04-16:55:05.919 1424 Delete type=2 #1114
+2023/01/04-16:55:05.919 1424 Delete type=2 #1115
+2023/01/04-16:55:05.919 1424 Delete type=2 #1120
